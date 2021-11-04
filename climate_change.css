@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    font-style: none;
+
+}
+
+a {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: skyblue;
+    text-decoration: underline;
+}
+
+input:focus{
+    color: darkorange;
+    background-color: rgb(245, 222, 228);
+} 
+
+.nav{
+    color:gray;
+    font-weight: 400;
+    text-align: center;
+    font-size: small;
+}
+
+.search{
+    color: gray;
+    width: 170px;
+
+}
+
+.btn{
+    font-weight: 800;
+}
+
+.table{
+    text-align: center;
+}
+
+.fig{
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}
